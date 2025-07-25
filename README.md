@@ -35,8 +35,9 @@
             <nav>
                 <ul class="flex space-x-6">
                     <li>
-                        <button onclick="navigateTo('home')" id="nav-home" class="hover:text-yellow-200 transition-colors duration-300">
-                            Home
+                        <button onclick="navigateTo('home')" id="nav-home" class="hover:text-yellow-200 transition-colors 
+duration-300">
+                            Beranda
                         </button>
                     </li>
                     <li>
@@ -45,7 +46,8 @@
                         </button>
                     </li>
                     <li>
-                        <button onclick="navigateTo('contact')" id="nav-contact" class="hover:text-yellow-200 transition-colors duration-300">
+                        <button onclick="navigateTo('contact')" id="nav-contact" class="hover:text-yellow-200 transition-colors 
+duration-300">
                             Kontak
                         </button>
                     </li>
