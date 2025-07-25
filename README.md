@@ -36,7 +36,7 @@
                 <ul class="flex space-x-6">
                     <li>
                         <button onclick="navigateTo('home')" id="nav-home" class="hover:text-yellow-200 transition-colors duration-300">
-                            Beranda
+                            Home
                         </button>
                     </li>
                     <li>
