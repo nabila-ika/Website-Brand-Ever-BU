@@ -27,7 +27,7 @@
         <div class="container mx-auto flex justify-between items-center">
             <!-- Logo Ever-BU -->
             <div class="flex items-center space-x-2">
-                <img src="logo brand.png" height="100px" width="50px"  alt="Ever-BU Logo" class="h-10 rounded-lg shadow-md" />
+                <img src="logo brand.png" height="150px" width="50px"  alt="Ever-BU Logo" class="h-10 rounded-lg shadow-md" />
                 <h1 class="text-3xl font-bold tracking-wider">Ever-BU</h1>
             </div>
 
